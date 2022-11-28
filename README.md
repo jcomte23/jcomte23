@@ -8,9 +8,7 @@
 </head>
 
 <body>
-    <center>
         <h1>Hello world, Hi there</h1>
         <p>I am a systems Technologist focused on software development for different platforms, with great ability to adapt to all kinds of work environments and always give the best of myself, characterized by my teamwork, as well as my enthusiasm to learn and develop my skills.</p>
-    </center>
 </body>
 </html>
