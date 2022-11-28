@@ -57,7 +57,7 @@
         <img
             src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label" />&nbsp;&nbsp;
     </p>
-    <a href="google.com" target="_blank" rel="noopener noreferrer"><img
-            src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;</a>
+    <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer"><img
+            src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
 </body>
 </html>
