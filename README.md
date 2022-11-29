@@ -14,47 +14,45 @@
         teamwork, as well as my enthusiasm to learn and develop my skills.</p>
     <h3 align='center'>My Development Toolbelt</h3>
     <p align='center'>
-        <a href="" target="_blank"><img
+        <a href="https://git-scm.com/" target="_blank"><img
                 src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://github.com/jcomte23" target="_blank"><img
                 src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.apachefriends.org/es/index.html" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.mysql.com/" target="_blank"><img
                 src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.mamp.info/en/windows/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=MAMP&color=02749C&logo=MAMP&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://unity.com/es" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://azure.microsoft.com/es-es/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://laravel.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://getbootstrap.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
     <h3 align='center'>My Programming Languages</h3>
     <p align='center'>
-        <a href="" target="_blank"><img
+        <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"><img
                 src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img
                 src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img
                 src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.python.org/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
     <h3 align='center'>My Institutions</h3>
     <p align='center'>
-        <a href="" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=Udemy&color=A435F0&logo=Udemy&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://platzi.com/p/jcomte23/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label" /></a>&nbsp;&nbsp;
-        <a href="" target="_blank"><img
+        <a href="https://www.youtube.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
 </body>
