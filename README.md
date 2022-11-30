@@ -52,7 +52,7 @@
     <p align='center'>
         <a href="https://platzi.com/p/jcomte23/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label" /></a>&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/javier-c%C3%B3mbita-t%C3%A9llez-253955200/" target="_blank"><img
+        <a href="https://co.linkedin.com/in/javier-cómbita-téllez-4b4aa3258?trk=people-guest_people_search-card" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
 </body>
