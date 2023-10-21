@@ -24,6 +24,8 @@
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://www.postgresql.org/download/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
+        <a href="https://www.oracle.com/database/" target="_blank"><img
+                src="https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
         <a href="https://laravel.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://dotnet.microsoft.com/es-es/download" target="_blank"><img
