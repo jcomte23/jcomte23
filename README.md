@@ -20,12 +20,6 @@
                 src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank"><img
                 src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://www.mamp.info/en/windows/" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=MAMP&color=02749C&logo=MAMP&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="https://unity.com/es" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
-        <a href="https://azure.microsoft.com/es-es/" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://laravel.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://getbootstrap.com/" target="_blank"><img
