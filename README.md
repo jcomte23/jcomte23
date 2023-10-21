@@ -20,6 +20,8 @@
                 src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank"><img
                 src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
+        <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img
+                src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://laravel.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://dotnet.microsoft.com/es-es/download" target="_blank"><img
