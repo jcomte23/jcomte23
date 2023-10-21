@@ -18,8 +18,6 @@
                 src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://github.com/jcomte23" target="_blank"><img
                 src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://www.apachefriends.org/es/index.html" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank"><img
                 src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.mamp.info/en/windows/" target="_blank"><img
