@@ -52,6 +52,8 @@
     </p>
     <h3 align='center'>My Social networks</h3>
     <p align='center'>
+        <a href="https://javiercombita.com/" target="_blank"><img
+                src="https://img.shields.io/static/v1?style=for-the-badge&message=website&color=CA6201&logo=Globus&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
         <a href="https://twitter.com/jcomte23" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Jcomte23&color=000000&logo=X&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
         <a href="https://platzi.com/p/jct/" target="_blank"><img
