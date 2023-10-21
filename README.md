@@ -32,6 +32,8 @@
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://getbootstrap.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
+        <a href="https://tailwindcss.com/" target="_blank"><img
+                src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>&nbsp;&nbsp;
     </p>
     <h3 align='center'>My Programming Languages</h3>
     <p align='center'>
