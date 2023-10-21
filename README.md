@@ -26,10 +26,10 @@
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
         <a href="https://www.oracle.com/database/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
-        <a href="https://laravel.com/" target="_blank"><img
-                src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://dotnet.microsoft.com/es-es/download" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
+        <a href="https://laravel.com/" target="_blank"><img
+                src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
         <a href="https://getbootstrap.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
