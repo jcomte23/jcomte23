@@ -58,7 +58,7 @@
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
     <div align='center'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=dark&locale=en&layout=compact" alt="jcomte23" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=light&locale=en&layout=compact" alt="jcomte23" />
     </div>
     <h3 align='center'>🌐 My Social networks</h3>
     <p align='center'>
