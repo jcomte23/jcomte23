@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1 align='center'>Hello world</h1>
+    <h1 align='center'>Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align='center'>I am a systems Technologist focused on software development for different platforms, with great
         ability to adapt to all kinds of work environments and always give the best of myself, characterized by my
         teamwork, as well as my enthusiasm to learn and develop my skills.</p>
