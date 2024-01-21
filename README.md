@@ -14,7 +14,7 @@
     </p>
     <div align='center' style="display: flex;justify-content: center;align-items: center">
         <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=dark&locale=en" alt="jcomte23" />
-        <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=dark&locale=en" alt="jcomte23" />  
+        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=dark&locale=en" alt="jcomte23" />  
     </div>
     <div>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&theme=dark&hide_border=true" alt="jcomte23"/>
