@@ -59,7 +59,7 @@
     <div align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=dark&locale=en&layout=compact" alt="jcomte23" />
     </div>
-    <h3 align='center'>My Social networks</h3>
+    <h3 align='center'>🌐 My Social networks</h3>
     <p align='center'>
         <a href="https://javiercombita.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=website&color=CA6201&logo=Globus&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
