@@ -9,9 +9,8 @@
 
 <body>
     <h1 align='center'>Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <p align='center'>I am a systems Technologist focused on software development for different platforms, with great
-        ability to adapt to all kinds of work environments and always give the best of myself, characterized by my
-        teamwork, as well as my enthusiasm to learn and develop my skills.
+    <p align='center'>
+        I'm a Full stack web developer specialized in creating various platforms, with solid knowledge in both frontend and backend development. My experience covers building and optimizing databases, as well as creating efficient APIs that facilitate interoperability between different system components to create scalable applications.
     </p>
     <div align='center'>
         <img src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=dark&locale=en" alt="jcomte23" />
