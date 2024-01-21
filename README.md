@@ -12,6 +12,9 @@
     <p align='center'>I am a systems Technologist focused on software development for different platforms, with great
         ability to adapt to all kinds of work environments and always give the best of myself, characterized by my
         teamwork, as well as my enthusiasm to learn and develop my skills.</p>
+   <p>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=dark&locale=en&layout=compact" alt="jcomte23" />
+   </p>
     <h3 align='center'>My Development Toolbelt</h3>
     <p align='center'>
         <a href="https://git-scm.com/" target="_blank"><img
