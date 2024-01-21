@@ -11,10 +11,12 @@
     <h1 align='center'>Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align='center'>I am a systems Technologist focused on software development for different platforms, with great
         ability to adapt to all kinds of work environments and always give the best of myself, characterized by my
-        teamwork, as well as my enthusiasm to learn and develop my skills.</p>
-   <p>
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=dark&locale=en&layout=compact" alt="jcomte23" />
-   </p>
+        teamwork, as well as my enthusiasm to learn and develop my skills.
+    </p>
+    <div align='center'>
+       <img src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=dark&locale=en" alt="jcomte23" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=dark" alt="jcomte23" />
+    </div>
     <h3 align='center'>My Development Toolbelt</h3>
     <p align='center'>
         <a href="https://git-scm.com/" target="_blank"><img
@@ -53,6 +55,9 @@
         <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
+    <div align='center'>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=dark&locale=en&layout=compact" alt="jcomte23" />
+    </div>
     <h3 align='center'>My Social networks</h3>
     <p align='center'>
         <a href="https://javiercombita.com/" target="_blank"><img
