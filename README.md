@@ -17,7 +17,7 @@
         <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=dark&locale=en" alt="jcomte23" />  
     </div>
     <div>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&theme=dark&hide_border=true" alt="jcomte23"/>
+        <img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&theme=dark&hide_border=false" alt="jcomte23"/>
     </div>
     <h3 align='center'>🛠️ My Development Toolbelt</h3>
     <p align='center'>
