@@ -12,13 +12,6 @@
     <p align='center'>
         I'm a Full stack web developer specialized in creating various platforms, with solid knowledge in both frontend and backend development. My experience covers building and optimizing databases, as well as creating efficient APIs that facilitate interoperability between different system components to create scalable applications.
     </p>
-    <div align='center' style="display: flex;justify-content: center;align-items: center">
-        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=light&locale=en" alt="jcomte23" />
-        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=light&locale=en" alt="jcomte23" />  
-    </div>
-    <div>
-        <img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&hide_border=false" alt="jcomte23"/>
-    </div>
     <h3 align='center'>🛠️ My Development Tool Belt</h3>
     <p align='center'>
         <a href="https://git-scm.com/" target="_blank"><img
@@ -59,6 +52,13 @@
     </p>
     <div align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=light&locale=en&layout=compact" alt="jcomte23" />
+    </div>
+    <div align='center' style="display: flex;justify-content: center;align-items: center">
+        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=light&locale=en" alt="jcomte23" />
+        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=light&locale=en" alt="jcomte23" />  
+    </div>
+    <div>
+        <img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&hide_border=false" alt="jcomte23"/>
     </div>
     <h3 align='center'>🌐 My Social networks</h3>
     <p align='center'>
