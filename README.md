@@ -12,7 +12,7 @@
     <p align='center'>
         I'm a Full stack web developer specialized in creating various platforms, with solid knowledge in both frontend and backend development. My experience covers building and optimizing databases, as well as creating efficient APIs that facilitate interoperability between different system components to create scalable applications.
     </p>
-    <h3 align='center'>🛠️ My Development Tool Belt</h3>
+    <h3 align='center'>🛠️ My Development Tool Belt 🛠️</h3>
     <p align='center'>
         <a href="https://git-scm.com/" target="_blank"><img
                 src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
@@ -35,7 +35,7 @@
         <a href="https://tailwindcss.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>&nbsp;&nbsp;
     </p>
-    <h3 align='center'>👨‍💻 My Programming Languages</h3>
+    <h3 align='center'>👨‍💻 My Programming Languages 👨‍💻</h3>
     <p align='center'>
         <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"><img
                 src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
@@ -60,7 +60,7 @@
     <div>
         <img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&hide_border=false" alt="jcomte23"/>
     </div>
-    <h3 align='center'>🌐 My Social networks</h3>
+    <h3 align='center'>🌐 My Social networks 🌐</h3>
     <p align='center'>
         <a href="https://javiercombita.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=website&color=CA6201&logo=Globus&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
