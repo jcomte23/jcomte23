@@ -60,6 +60,9 @@
     <div>
         <img style="width:100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcomte23&hide_border=false" alt="jcomte23"/>
     </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcomte23&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
     <h3 align='center'>🌐 My Social networks 🌐</h3>
     <p align='center'>
         <a href="https://javiercombita.com/" target="_blank"><img
