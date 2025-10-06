@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1 align='center'>Hello Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h1 align='center'>Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align='center'>
         I'm a Full stack web developer specialized in creating various platforms, with solid knowledge in both frontend and backend development. My experience covers building and optimizing databases, as well as creating efficient APIs that facilitate interoperability between different system components to create scalable applications.
     </p>
