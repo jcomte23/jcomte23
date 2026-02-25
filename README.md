@@ -64,6 +64,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcomte23&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
     <h3 align='center'>🌐 My Social networks 🌐</h3>
+    <div align="center">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=jcomte23"  />
+    </div>
     <p align='center'>
         <a href="https://javiercombita.com/" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=website&color=CA6201&logo=Globus&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;
