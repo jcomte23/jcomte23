@@ -41,6 +41,7 @@
 I am a **Senior Full Stack Developer & Tech Lead** forged through pure hands-on coding experience. Starting as a SENA technologist, my career has been driven by solving real-world problems. My core strength is **adaptability**—whether I'm architecting scalable enterprise systems with **.NET** and **Python**, integrating AI/LLMs into business models, or guiding development teams through **SCRUM** sprints to ensure on-time delivery.
 
 Beyond writing code, I am deeply passionate about extreme ownership, agile team leadership, and mentorship. I am actively preparing to dive into content creation to share my knowledge on YouTube.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
