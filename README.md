@@ -29,24 +29,18 @@
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jcomte23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/jcomte23" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=jcomte23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a results-driven **Senior Full Stack Developer and Tech Lead** forged through years of hands-on coding experience. My career has been built purely on a solid foundation of real-world problem-solving and an unrelenting passion for technology, starting from my roots as a SENA technologist and continuously growing into tech leadership roles.
+I am a **Senior Full Stack Developer & Tech Lead** forged through pure hands-on coding experience. Starting as a SENA technologist, my career has been driven by solving real-world problems. My core strength is **adaptability**—whether I'm architecting scalable enterprise systems with **.NET** and **Python**, integrating AI/LLMs into business models, or guiding development teams through **SCRUM** sprints to ensure on-time delivery.
 
-My greatest asset is my adaptability—whether I'm architecting enterprise-grade **.NET** systems, managing **Ubuntu** environments to integrate local **Large Language Models (LLMs)** using **Python**, or guiding a team through Agile sprints to meet tight deadlines.
-
-- 🚀 **Technical Leadership:** Spearheaded the end-to-end development and deployment of mission-critical applications, optimizing system uptime and operational efficiency.
-- 🏗️ **Architecture & Development:** Architected highly scalable and secure backend systems across **.NET/C#** and **Python** ecosystems, drastically reducing response times.
-- 🤖 **Hybrid Ecosystems & AI:** Engineered complex database integrations (SQL/NoSQL) and modern hybrid solutions, leveraging AI and automation to drive tangible business value.
-- 🌱 **Mentorship & Agile Management:** Accelerated the onboarding and upskilling of developers, elevating code quality while managing project lifecycles via **Azure DevOps** and **Scrum**.
-- 🎓 **Coming Soon:** I am gearing up to dive into the world of **content creation**! I love teaching, so expect to see me on YouTube soon.
-- 📂 **Digital Footprint:** Check out my feature projects at my [Portafolio](https://jcomte23.github.io/) and my [Gravatar Profile](https://javiercombitatellez.pro/).
-
+Beyond writing code, I am deeply passionate about extreme ownership, agile team leadership, and mentorship. I am actively preparing to dive into content creation to share my knowledge on YouTube.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -72,20 +66,28 @@ My greatest asset is my adaptability—whether I'm architecting enterprise-grade
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="jcomte23's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=tokyonight&locale=en&hide_border=true" alt="jcomte23's Streak" width="49%" />
+  <a href="https://github.com/jcomte23" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=jcomte23&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="jcomte23's GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/jcomte23" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcomte23&theme=tokyonight&locale=en&hide_border=true" alt="jcomte23's Streak" width="49%" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="jcomte23's Top Languages" width="49%" />
+  <a href="https://github.com/jcomte23" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcomte23&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="jcomte23's Top Languages" width="49%" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcomte23&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" width="100%" alt="activity-graph" />
+  <a href="https://github.com/jcomte23" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcomte23&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" width="100%" alt="activity-graph" />
+  </a>
 </div>
 
 ---
