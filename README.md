@@ -1,26 +1,32 @@
-<!-- Header Banner -->
-<div align="center">
-  <a href="https://jcomte23.github.io/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Javier%20C%C3%B3mbita&fontSize=65&fontAlignY=35&desc=Senior%20Software%20Engineer%20%26%20Tech%20Lead&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header Banner">
-  </a>
-</div>
-
-<h3 align="center">Building scalable systems, integrating AI, and leading engineering teams 🚀</h3>
+<h1 align="center">Hi there, I'm Javier 👋</h1>
+<h3 align="center">Building scalable systems, integrating AI, and leading development teams 🚀</h3>
 
 <p align="center">
   <a href="https://jcomte23.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://javiercombitatellez.pro/" target="_blank">
+    <img src="https://img.shields.io/badge/Gravatar-%231E8CBE.svg?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar"/>
+  </a>
   <a href="https://co.linkedin.com/in/javier-cómbita-téllez-4b4aa3258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/jcomte23" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"/>
-  </a>
-  <a href="https://platzi.com/p/jct/" target="_blank">
-    <img src="https://img.shields.io/badge/Platzi-%2398CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white" alt="Platzi"/>
+  <a href="https://hub.docker.com/u/jcomte23" target="_blank">
+    <img src="https://img.shields.io/badge/Docker_Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
   </a>
 </p>
+
+<!-- Uncomment this block when you want to add YouTube and Instagram! -->
+<!--
+<p align="center">
+  <a href="YOUR_YOUTUBE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jcomte23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -30,16 +36,16 @@
 
 ### 👨‍💻 About Me
 
-I am a results-driven **Software Engineer and Tech Lead** who thrives on taking extreme ownership of complex problems and delivering scalable solutions. I combine strategic team leadership with hands-on technical execution to ensure engineering excellence and on-time delivery. 
+I am a results-driven **Senior Full Stack Developer and Tech Lead** forged through years of hands-on coding experience. My career has been built purely on a solid foundation of real-world problem-solving and an unrelenting passion for technology, starting from my roots as a SENA technologist and continuously growing into tech leadership roles.
 
 My greatest asset is my adaptability—whether I'm architecting enterprise-grade **.NET** systems, managing **Ubuntu** environments to integrate local **Large Language Models (LLMs)** using **Python**, or guiding a team through Agile sprints to meet tight deadlines.
 
-- 🚀 **Technical Leadership:** Spearheaded the end-to-end development and deployment of mission-critical applications, significantly improving system uptime, performance, and operational efficiency.
-- 🏗️ **Architecture & Optimization:** Architected highly scalable and secure backend systems across **.NET/C#** and **Python** ecosystems.
+- 🚀 **Technical Leadership:** Spearheaded the end-to-end development and deployment of mission-critical applications, optimizing system uptime and operational efficiency.
+- 🏗️ **Architecture & Development:** Architected highly scalable and secure backend systems across **.NET/C#** and **Python** ecosystems, drastically reducing response times.
 - 🤖 **Hybrid Ecosystems & AI:** Engineered complex database integrations (SQL/NoSQL) and modern hybrid solutions, leveraging AI and automation to drive tangible business value.
 - 🌱 **Mentorship & Agile Management:** Accelerated the onboarding and upskilling of developers, elevating code quality while managing project lifecycles via **Azure DevOps** and **Scrum**.
-- 🎓 **Coming Soon:** I am gearing up to dive into the world of **content creation** and teaching to share my knowledge with the community!
-- 📂 **Portfolio:** Check out my feature projects and open-source contributions at [jcomte23.github.io](https://jcomte23.github.io/).
+- 🎓 **Coming Soon:** I am gearing up to dive into the world of **content creation**! I love teaching, so expect to see me on YouTube soon.
+- 📂 **Digital Footprint:** Check out my feature projects at my [Portafolio](https://jcomte23.github.io/) and my [Gravatar Profile](https://javiercombitatellez.pro/).
 
 ---
 
